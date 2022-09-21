@@ -1,0 +1,14 @@
+[
+    {
+        "email": "nv001@company.com",
+        "password": "NhanVien01",
+        "empid": "nv001",
+        "gender": "Nam",
+        "fullname": "Nguyen Van A",
+        "dob": {"$date": "2000-01-01"},
+        "phone": "0123456789",
+        "depid": "pb001",
+        "leave": 12,
+        "salary": 30000
+    }
+]
